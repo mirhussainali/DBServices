@@ -11,7 +11,7 @@
   <!-- nodes -->
 
 <INVOKE TIMEOUT="" SERVICE="pub.xml:xmlStringToXMLNode" VALIDATE-IN="$none" VALIDATE-OUT="$none">
-  <COMMENT></COMMENT>
+  <COMMENT>prepare xml node</COMMENT>
 
   <!-- nodes -->
 
